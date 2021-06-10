@@ -2,8 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_driver/driver_extension.dart';
 
 void main() {
-  // Uncomment the line `enableFlutterDriverExtension();` before making a submission. 
-  //Failure in doing so will not execute the automated testcases.
+  // IMPORTANT: Uncomment the line `enableFlutterDriverExtension();` before making a submission. Failure in doing so will not execute the automated testcases.
 
   // enableFlutterDriverExtension();
   runApp(MyApp());
